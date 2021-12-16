@@ -1,0 +1,33 @@
+{
+  "name": "@iyowei/ls-dir-sync",
+  "version": "1.0.0",
+  "description": "串行扫描文件夹。",
+  "main": "lsDirSync.js",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iyowei/ls-dir-sync.git"
+  },
+  "keywords": [
+    "iyowei"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iyowei/ls-dir-sync/issues"
+  },
+  "homepage": "https://github.com/iyowei/ls-dir-sync#readme",
+  "type": "module",
+  "exports": "./lsDirSync.js",
+  "files": [
+    "lsDirSync.js"
+  ],
+  "engines": {
+    "node": ">=12.20.0"
+  },
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  }
+}
