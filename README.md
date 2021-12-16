@@ -19,7 +19,7 @@
 
 ```js
 import { log } from "console";
-import { lsDirSync } from "@iyowei/ls-dir-sync";
+import lsDirSync from "@iyowei/ls-dir-sync";
 
 log(lsDirSync(process.cwd()));
 
