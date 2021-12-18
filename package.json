@@ -1,6 +1,6 @@
 {
   "name": "@iyowei/ls-dir-sync",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "串行扫描文件夹。",
   "main": "lsDirSync.js",
   "scripts": {},
