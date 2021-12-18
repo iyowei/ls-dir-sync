@@ -3,9 +3,7 @@
   "version": "1.0.1",
   "description": "串行扫描文件夹。",
   "main": "lsDirSync.js",
-  "scripts": {
-    "preinstall": "npx only-allow pnpm"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/iyowei/ls-dir-sync.git"
